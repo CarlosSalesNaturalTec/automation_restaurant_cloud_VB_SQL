@@ -1,0 +1,12 @@
+IMPRESSÃO DARUMA DR-700
+===================================================================
+Arquivo necessário para impressão : DarumaFrameWork.dll
+* copiado na pasta em que o programa está instalado
+* caso não funcione, copiar em windwows\system32
+
+
+
+BANCO DE DADOS MY-SQL
+===================================================================
+instalar mysql-connector-odbc-3.51.30-win32 
+
